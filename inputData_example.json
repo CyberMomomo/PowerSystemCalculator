@@ -1,0 +1,16 @@
+{
+    "ActivePower": [30.2624],
+    "ActivePowerUnit": "MW",
+    "ReactivePower": [12.6666],
+    "ReactivePowerUnit": "Mvar",
+    "ComplexPowerUnit": "MVA",
+    "Resistance": [8.43],
+    "ResistanceUnit": "Ohm",
+    "Reactance": [10.626],
+    "ReactanceUnit": "Ohm",
+    "Inpedance": "Ohm",
+    "Voltage": 110,
+    "VoltageUnit": "kV",
+    "ConsiderBalance": true,
+    "UAvsUN": 1.1
+}

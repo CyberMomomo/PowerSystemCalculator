@@ -20,3 +20,4 @@
 > ### 编译
 >
 > 1. 本工具可在Qt 5.9.9 + MSVC2015 32-bit环境下正常编译
+> 2. 需将inputData_example.json改名为inputData.json，并放入程序根目录后调整
